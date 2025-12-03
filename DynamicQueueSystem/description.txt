@@ -1,0 +1,1 @@
+This project implements a dynamic array-based Queue structure in Java with full type checking, file-based command processing, and automatic resizing. All required features were completed successfully, and the application runs without errors.
